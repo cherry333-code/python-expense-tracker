@@ -24,7 +24,6 @@ A simple **console-based expense tracker** built using Python. Helps users manag
 
 ## 🚀 How to Run
 
-```bash
 python expense_tracker.py
 
 ========== EXPENSE TRACKER ==========
